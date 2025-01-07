@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ### **Installation**
 1. Clone the repository by running this command in your terminal:  
-   `git clone https://github.com/AshabaJasper/FinTrack.git`
+   `git clone https://github.com/AshabaJasper/FinTrack_java.git`
 
 2. Navigate to the project directory:  
    `cd FinTrack`
