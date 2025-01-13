@@ -7,7 +7,7 @@
 
 Built with simplicity and functionality in mind, FinTrack ensures your data stays private by storing everything locally.
  
----
+--- 
 
 ## **Features**
 FinTrack offers the following capabilities:
